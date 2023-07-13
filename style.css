@@ -1,0 +1,147 @@
+.text-color{
+    color:#ec4c7a;
+    font-size: 35px;
+}
+.first-width img{
+    width:65%;  
+}
+.first-width{
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width:43%;
+    margin-top:7%;
+    text-align: justify;
+}
+.first-banner{
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ 
+body {
+    font-family: "Lato", sans-serif;
+    
+  }
+section{
+    height:500px;
+    
+}
+.btn{
+    margin-top:15px;
+    padding:10px ;
+   background-color:#ec4c7a;
+}
+.button1{
+  
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  padding:5px 10px;
+  border-radius: 5px;
+}
+.button1:hover{
+    color:black;
+    font-size: 20px;
+
+}
+.second-banner{
+    background-image: url("img/biography-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.second-width img{
+    width:55%; 
+
+}
+.second-width{
+    float:left;
+    margin-right: 5%;
+    padding-right: 2%;
+    width:38%;  
+    margin-top:7%;
+    text-align: justify;
+    margin-left: 5%;
+
+}
+h1{
+        font-size:35px;
+}
+.footer{
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.work-class{
+    text-align: center;
+    font-size: 20px;
+  }
+.work-img{
+    width:400px;
+    float:left;
+    margin-left:2%;
+}
+.work-img img{
+    width:100%
+}
+.last-footer{
+    background-image: url("img/footer-bg.png");
+    background-position: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.last-footer img{
+    width:100%; 
+}
+.client-comment{
+    text-align:center;
+}
+.foot-color{
+   
+        color: rgba(24, 17, 17, 0.65);
+
+}
+.comment-box{
+    text-align: center;
+    color:white;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    background-color: #ec4c7a;
+    margin-left: 25%;
+    margin-right:25%;
+    margin-top: 5%;
+    border-width:initial;
+    
+}
+.comment-contact{
+    text-align: center;
+    padding: 15px;
+  }
+
+.client-comment h1 {
+    margin-top: 5%;
+    font-size: 30px;
+    padding: 1px;
+  }
+  
+  .client-comment p {
+    font-size: 15px;
+    padding: 1px;
+    margin: 1px;
+    margin-bottom: 30px;
+  }
+  
+  
+.footer-name{
+   margin-top: 10%;
+    padding-bottom: 5%;
+    text-align: center;
+    color: rgba(24, 17, 17, 0.65);
+
+}
+.mail:hover{
+    color:palevioletred;
+}
